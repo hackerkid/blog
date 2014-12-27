@@ -1,5 +1,5 @@
 ---
-layout: defaultblog
+layout: post
 title:  "Conducting IIITA'S First Mozcafe"
 date:   2014-6-18 11:02:35
 categories: creative events
