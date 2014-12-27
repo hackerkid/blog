@@ -1,93 +1,30 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hackerkid's Blog</title>
-    <description>This is the blog of Vishnu KS aka Hackerkid
-</description>
-    <link>http://hackerkid.github.io/blog//</link>
-    <atom:link href="http://hackerkid.github.io/blog//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Dec 2014 02:35:46 +0530</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2014 02:35:46 +0530</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-    
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.posts limit:10 %}
       <item>
-        <title>Goodbye Wordpress. Hello Jekyll</title>
-        <description>&lt;p&gt;Hey there. This is my first blog post since I migrated from my &lt;code&gt;Wordpress&lt;/code&gt; blog. I was a huge fan of Wordpress since the first time I came to knew about her in my 9th or 10th standard. I think it’s now the right time to move on to Jekyll.  Jekyll is super fast as it don’t have any database associated with it. Since there is no need of a database I can now migrate the blog from &lt;code&gt;Openshift&lt;/code&gt; to &lt;code&gt;Github pages&lt;/code&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Dec 2014 06:32:35 +0530</pubDate>
-        <link>http://hackerkid.github.io/blog//update/2014/12/28/migrating-to-jekyll.html</link>
-        <guid isPermaLink="true">http://hackerkid.github.io/blog//update/2014/12/28/migrating-to-jekyll.html</guid>
-        
-        
-        <category>update</category>
-        
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
       </item>
-    
-      <item>
-        <title>Recreating the Infamous Facemash</title>
-        <description>&lt;p&gt;Yesterday was a hell of a day. We re-created the infamous Facemash in less than 4 hours. The idea to re-create Facemash started with a debate  among my roommates who are from different states of India.  I started shouting to Bhagyraj and Harish that Kerala is the most beautiful state in India. Well, even though its is true :p my roommates did’t agree with that.  We thought of a solution to settle this problem but none seemed working. At last I came up with the most stupid solution one can ever find. Recreate Facemash for rating pictures of our states.  Bhagyraj and Harish shouted “Hell, Yeah”  and we started working on the site.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://images-vishnu7.rhcloud.com/comparo.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We used the famous Elo algorithm for rating the pictures.  If you are not familiar with the Elo algoritham, then Google it.  I will try to explain the basic implementation of Elo algorithm for rating players. If you want to rate two players then the new rating of player A looks something like this.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://images-vishnu7.rhcloud.com/elo-rating.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;K is the “k factor”, an arbitrary multiplier (a higher k factor means higher rating volatility), S is the total score in a rated event, and E is the total expected score in a rated event, which is calculated by&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://images-vishnu7.rhcloud.com/elo-rating-vishnu.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We implemented the website in PHP and Twitter Bootstrap.  Once the website was done we got suggestions from some alpha testers to include the pics of College girls instead of pictures of different states from where we hail.  Well, as we had complete respect for the girls in our campus and didn’t want to hurt anyone we decided to go for rating film stars at the last minute before the launch  instead of pictures of states.&lt;/p&gt;
-
-&lt;p&gt;Finally we launched the website at around 1 AM and got a thousands hits a few minutes later.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Jul 2014 06:32:35 +0530</pubDate>
-        <link>http://hackerkid.github.io/blog//creative/2014/07/27/recreating-the-facemash.html</link>
-        <guid isPermaLink="true">http://hackerkid.github.io/blog//creative/2014/07/27/recreating-the-facemash.html</guid>
-        
-        
-        <category>creative</category>
-        
-      </item>
-    
-      <item>
-        <title>Conducting IIITA'S First Mozcafe</title>
-        <description>&lt;p&gt;This is my first post. After thinking for a day about what should be blogged, I finally settled on &lt;code&gt;Mozcafe&lt;/code&gt; . You may be most probably wondering now, what the heck is Mozcafe. Even tough it sounds something like a restaurant it’s not. Mozcafe is an event conducted with the help of &lt;code&gt;Mozilla foundation&lt;/code&gt; around the world where FOSS lovers come together and share their idea. Recently a Mozcafe was conducted in IIIT Allahabad with the support of IIIT Allahabad &lt;code&gt;Firefox Club&lt;/code&gt;. I was a member of the Firefox Club so I got chance to be a part of the organizing team of Mozcafe along with my seniors Rahul, Aditya, Jatin, Ankit, Charul, Atul, Ashoka, Pawan and fellow batch mates Anurag and Abhishek. This post would be about how we prepared for Mozcafe and how it went.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/mozcafe.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It all started for me when Rahul sir called me and told that Firefox club is going to organize Mozcafe on February 24. I didn’t knew what Mozcafe was at that time so he told me patiently about the whole event. I was so excited about the idea and decided to be a apart of the event. Soon there was a meeting regarding the Event and various members were assigned various duties. I and Abhishek got the task of making intro videos for the event. My only prior experience on this field was the Pinnacle Videospin sftware with which used to add some minor edits to video. But what I was asked to do was to make a video regarding Firefox club and another one on Open Source and Mozilla. The best part of all was that mid sems were approaching in fast pace and like 99% of the IIITians I haven’t touched the books so far. We decided to forget about mid sems for a couple of days and started our adventure on video making. Our adventure would have failed if there was not a site called http://www.powtoons.com or if they charged money for making videos.&lt;/p&gt;
-
-&lt;p&gt;After 1 day we came up with our first video. Since it was our first video I and Abhishek conducted shows of the video in the hostel at least 20 times in various occasions. Most of times my fellow hostel mates slipped into sleep when the video reached the half. But I and Abhishek never gave up and watched the video again and again with new friends joining each time. We collected feedback from our friends and improved it.&lt;/p&gt;
-
-&lt;p&gt;After the completion of the first video we began to work on the second video. This time it took us only 2 hours to complete the video. Even tough this video was only a minute in length it was the best of the two videos we made.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/vishnu.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Along with the task of making videos I was also assigned to prepare some Quiz questions for the event. Which means I have to go to the stage to ask Questions. The very thought of facing a crowd of 1000 along on the stage made me nervous. So Abhishek told me that he will come with me to support me on Quiz and we began count down for Mozcafe. Posters were posted all over the campus and the whole institute began to wait for Mozcafe. We did many mock runs on the auditorium and was all set for the event.&lt;/p&gt;
-
-&lt;p&gt;February 24 came faster than expected. Many professors came to attend the event along with students. Audio Lightning Club(Thunderbolt) took over the control of the audio and lights of the auditorium. Soon Mozilla Rep Shahid Farooqui joined us. The event was officially kick started at 3.30. Shahid Farooqui gave a long speech on Mozilla and FOSS. After the speech I and Abhishek was called on the Stage to show our video. We presented the video and the crowd accepted it wholeheartedly. We were called once again to conduct the Quiz which turned out to be a fun session. We started off the quiz dramatically by taking the Question of the Quiz from the seat of a student.&lt;/p&gt;
-
-&lt;p&gt;Many other talks followed and some of the best ones were talk on GSOC, introduction to Github and Blogging. We were once again called to present our 2nd video. During the event we asked the audience to write about some cool inventions which they have in their mind. W collected all the idea and made an idea board. The best ideas were rewarded with Parker pens. We also managed to give the audience snacks among with fruity and munch. When the event ended most of them had had a feeling of achievement in their face.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/vishnuks.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mozcafe organized by Firefox club was able to bring many changes in the campus. Many of my friends contacted me on on Facebook asking for help to get started on Google Summer Of Code. Some of them had doubts on IRCs while some had problem with MDN and gitHub. A wiki media club is also to be launched in the coming semester by some students who want to contribute to free and open source.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/all.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I am happy to be a part of the change which is now taking place in IIIT Allahabad. More over doing good not only feels good. It also leads to better good.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 18 Jun 2014 16:32:35 +0530</pubDate>
-        <link>http://hackerkid.github.io/blog//creative/events/2014/06/18/conducting-first-mozcafe-in-iiita.html</link>
-        <guid isPermaLink="true">http://hackerkid.github.io/blog//creative/events/2014/06/18/conducting-first-mozcafe-in-iiita.html</guid>
-        
-        
-        <category>creative</category>
-        
-        <category>events</category>
-        
-      </item>
-    
+    {% endfor %}
   </channel>
 </rss>
