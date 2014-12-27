@@ -4,10 +4,10 @@
     <title>Hackerkid's Blog</title>
     <description>This is the blog of Vishnu KS aka Hackerkid
 </description>
-    <link>http://hackerkid.github.ioi/blog/</link>
-    <atom:link href="http://hackerkid.github.ioi/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Dec 2014 02:11:57 +0530</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2014 02:11:57 +0530</lastBuildDate>
+    <link>http://hackerkid.github.io/blog//</link>
+    <atom:link href="http://hackerkid.github.io/blog//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 28 Dec 2014 02:15:53 +0530</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2014 02:15:53 +0530</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;Hey there. This is my first blog post since I migrated from my &lt;code&gt;Wordpress&lt;/code&gt; blog. I was a huge fan of Wordpress since the first time I came to knew about her in my 9th or 10th standard. I think it’s now the right time to move on to Jekyll.  Jekyll is super fast as it don’t have any database associated with it. Since there is no need of a database I can now migrate the blog from &lt;code&gt;Openshift&lt;/code&gt; to &lt;code&gt;Github pages&lt;/code&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Dec 2014 06:32:35 +0530</pubDate>
-        <link>http://hackerkid.github.ioi/blog/update/2014/12/28/migrating-to-jekyll.html</link>
-        <guid isPermaLink="true">http://hackerkid.github.ioi/blog/update/2014/12/28/migrating-to-jekyll.html</guid>
+        <link>http://hackerkid.github.io/blog//update/2014/12/28/migrating-to-jekyll.html</link>
+        <guid isPermaLink="true">http://hackerkid.github.io/blog//update/2014/12/28/migrating-to-jekyll.html</guid>
         
         
         <category>update</category>
@@ -42,8 +42,8 @@
 &lt;p&gt;Finally we launched the website at around 1 AM and got a thousands hits a few minutes later.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Jul 2014 06:32:35 +0530</pubDate>
-        <link>http://hackerkid.github.ioi/blog/creative/2014/07/27/recreating-the-facemash.html</link>
-        <guid isPermaLink="true">http://hackerkid.github.ioi/blog/creative/2014/07/27/recreating-the-facemash.html</guid>
+        <link>http://hackerkid.github.io/blog//creative/2014/07/27/recreating-the-facemash.html</link>
+        <guid isPermaLink="true">http://hackerkid.github.io/blog//creative/2014/07/27/recreating-the-facemash.html</guid>
         
         
         <category>creative</category>
@@ -79,8 +79,8 @@
 &lt;p&gt;I am happy to be a part of the change which is now taking place in IIIT Allahabad. More over doing good not only feels good. It also leads to better good.&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Jun 2014 16:32:35 +0530</pubDate>
-        <link>http://hackerkid.github.ioi/blog/creative/events/2014/06/18/conducting-first-mozcafe-in-iiita.html</link>
-        <guid isPermaLink="true">http://hackerkid.github.ioi/blog/creative/events/2014/06/18/conducting-first-mozcafe-in-iiita.html</guid>
+        <link>http://hackerkid.github.io/blog//creative/events/2014/06/18/conducting-first-mozcafe-in-iiita.html</link>
+        <guid isPermaLink="true">http://hackerkid.github.io/blog//creative/events/2014/06/18/conducting-first-mozcafe-in-iiita.html</guid>
         
         
         <category>creative</category>
