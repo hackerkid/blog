@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Blog Of HackerKid
 permalink: /blog/
 ---
 
