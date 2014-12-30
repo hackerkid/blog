@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defaultblog
 title: Blog Of HackerKid
 permalink: /blog/
 ---
