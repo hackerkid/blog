@@ -17,10 +17,10 @@ url = 'http://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&
 //url = "mark.json";
 $(document).ready(function(){
     $("button").click(function(){
+    	xhr.setRequestHeader("Origin", "http://hackerkid.github.com");
       	$.ajax({
 			url: url,
         	dataType: "json",
-        	'origin': 'http://hackerkid.github.io',
         	success: function(data){
        			
        		$.each(data.query.pages, function(i, item) {
