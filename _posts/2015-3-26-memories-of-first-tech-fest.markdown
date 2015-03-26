@@ -17,7 +17,7 @@ There were some tricky questions which involved finding the MAC adress and hostn
 
 <img src = "/images/codeshow.jpg">
 
-The other event which I took part was IT Quiz. Unfortunately our team suffered an early second round exit. Then came the Codeshow finals. Codeshow was an ACM ICPC styled competetion. There was a prelims which took place a few weeks before. Around 20 teams which were able to solve more than 3 problems which choosen for the onsite. We were not able to get a prize but it was really an awesome experince. 
+The other event which I took part was IT Quiz. Unfortunately our team suffered an early second round exit. Then came the Codeshow finals. Codeshow was an ACM ICPC styled competetion. There was a prelims which took place a few weeks before. Around 20 teams which were able to solve more than 3 problems were choosen for the onsite. We were not able to get a prize but it was really an awesome experince. 
 
 I and Bhagyaraj also teamed up for Confedarore, a debugging competetion based on Android. As I was not coforable with Android Bhagyraj began to analyze the code while I began to document the bugs. Finally we were able to fix around nine bugs. We created the patch files and send it to the organizers almost on time. After some time we got call from organizers that we were placed second in the contest. That was our second win the tech fest. 
 
