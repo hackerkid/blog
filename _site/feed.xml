@@ -6,13 +6,44 @@
 </description>
     <link>http://hackerkid.github.io/</link>
     <atom:link href="http://hackerkid.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Mar 2015 15:03:08 +0530</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2015 15:03:08 +0530</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2015 15:30:28 +0530</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2015 15:30:28 +0530</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Beautiful Memories of the first Tech Fest</title>
+        <description>&lt;p&gt;The first Tech Fest of IIIT Allahabad Aparoksha turned out to be quite awesome. My experince started with Coldfire which was the first offline Technical event of Aparoksha.  Coldfire was an event in which you have to identify the vulnurabilities in web applications. Even tough I have a little bit experince in developing small web applications We had very little knowladge in penetration tests. But the unexpected happened on that day. I and my roommate Bhagyraj emerged as the winner of Coldfire cracking all the 10 problems in Coldfire. The first two questions was based on injecting javascript code through the GET variables. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;/script&amp;gt;ipt&amp;gt;alert(&amp;#39;Hacked :p&amp;#39;)&amp;lt;/scr&amp;lt;/script&amp;gt;ipt&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Some questions involved encrypting the javascript code to ASCII and decrypting again and evaluating with the help of &lt;code&gt;eval&lt;/code&gt; function. There were also a few questions on SQL injection which turned out to be quite simple. In one question all we needed was to change the input the username as * which retrieved all the rows. &lt;/p&gt;
+
+&lt;p&gt;There were some tricky questions which involved finding the MAC adress and hostname of the server. We were meant to find the MAC adress by injecting to server a call to &lt;code&gt;phpinfo()&lt;/code&gt;. But since the server was in the same computer lab as we were in we just used the ‘ arp -an ` command to find the mac adress of the computers in the newtork. Since the IP adress was already knows the rest of the part was pretty simple. One question was to find the Apache version of the server. We couldn’t find a way to retrieve this information so we simply brute forced the possible Apache versions. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/codeshow.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The other event which I took part was IT Quiz. Unfortunately our team suffered an early second round exit. Then came the Codeshow finals. Codeshow was an ACM ICPC styled competetion. There was a prelims which took place a few weeks before. Around 20 teams which were able to solve more than 3 problems which choosen for the onsite. We were not able to get a prize but it was really an awesome experince. &lt;/p&gt;
+
+&lt;p&gt;I and Bhagyaraj also teamed up for Confedarore, a debugging competetion based on Android. As I was not coforable with Android Bhagyraj began to analyze the code while I began to document the bugs. Finally we were able to fix around nine bugs. We created the patch files and send it to the organizers almost on time. After some time we got call from organizers that we were placed second in the contest. That was our second win the tech fest. &lt;/p&gt;
+
+&lt;p&gt;Hackathon which was one of the event I was looking to participate got canceled in the last moment. We were not able to attend the back end development competetetion ‘Backbone’ due to the conflict in timing with Codeshow. Looking backward, the Techfest teached us  a lot of things in a very short period of time. It was really three days of awesomeness. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Mar 2015 07:45:35 +0530</pubDate>
+        <link>http://hackerkid.github.io/events/2015/03/26/memories-of-first-tech-fest.html</link>
+        <guid isPermaLink="true">http://hackerkid.github.io/events/2015/03/26/memories-of-first-tech-fest.html</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>Goodbye Wordpress. Hello Jekyll</title>
         <description>&lt;p&gt;Hey there. This is my first blog post since I migrated from my &lt;code&gt;Wordpress&lt;/code&gt; blog. I was a huge fan of Wordpress since the first time I came to knew about her in my 9th or 10th standard. I think it’s now the right time to move on to Jekyll.  Jekyll is super fast as it don’t have any database associated with it. Since there is no need of a database I can now migrate the blog from &lt;code&gt;Openshift&lt;/code&gt; to &lt;code&gt;Github pages&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;center&gt;&lt;img src=&quot;/images/goodbye.png&quot; height=&quot;400p&quot; /&gt;&lt;/center&gt;&lt;br /&gt;	&lt;/p&gt;
+
+&lt;p&gt;The main reason I am migrating from Openshift to Github is becuase of the awesome latency of Github pages as compared to Openshift. Since I am using a free hosting in Openshift I have to share my server with other users which results in a very poor uptime and low latency. Since Githug pages doesn’t allow database Jekyll is the best option for me right now for puting the blog. &lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Dec 2014 06:32:35 +0530</pubDate>
         <link>http://hackerkid.github.io/update/2014/12/28/migrating-to-jekyll.html</link>
@@ -54,7 +85,7 @@
         <title>Conducting IIITA'S First Mozcafe</title>
         <description>&lt;p&gt;This is my first post. After thinking for a day about what should be blogged, I finally settled on &lt;code&gt;Mozcafe&lt;/code&gt; . You may be most probably wondering now, what the heck is Mozcafe. Even tough it sounds something like a restaurant it’s not. Mozcafe is an event conducted with the help of &lt;code&gt;Mozilla foundation&lt;/code&gt; around the world where FOSS lovers come together and share their idea. Recently a Mozcafe was conducted in IIIT Allahabad with the support of IIIT Allahabad &lt;code&gt;Firefox Club&lt;/code&gt;. I was a member of the Firefox Club so I got chance to be a part of the organizing team of Mozcafe along with my seniors Rahul, Aditya, Jatin, Ankit, Charul, Atul, Ashoka, Pawan and fellow batch mates Anurag and Abhishek. This post would be about how we prepared for Mozcafe and how it went.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/mozcafe.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/mozcafe.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It all started for me when Rahul sir called me and told that Firefox club is going to organize Mozcafe on February 24. I didn’t knew what Mozcafe was at that time so he told me patiently about the whole event. I was so excited about the idea and decided to be a apart of the event. Soon there was a meeting regarding the Event and various members were assigned various duties. I and Abhishek got the task of making intro videos for the event. My only prior experience on this field was the Pinnacle Videospin sftware with which used to add some minor edits to video. But what I was asked to do was to make a video regarding Firefox club and another one on Open Source and Mozilla. The best part of all was that mid sems were approaching in fast pace and like 99% of the IIITians I haven’t touched the books so far. We decided to forget about mid sems for a couple of days and started our adventure on video making. Our adventure would have failed if there was not a site called http://www.powtoons.com or if they charged money for making videos.&lt;/p&gt;
 
@@ -62,7 +93,7 @@
 
 &lt;p&gt;After the completion of the first video we began to work on the second video. This time it took us only 2 hours to complete the video. Even tough this video was only a minute in length it was the best of the two videos we made.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/vishnu.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/vishnu.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Along with the task of making videos I was also assigned to prepare some Quiz questions for the event. Which means I have to go to the stage to ask Questions. The very thought of facing a crowd of 1000 along on the stage made me nervous. So Abhishek told me that he will come with me to support me on Quiz and we began count down for Mozcafe. Posters were posted all over the campus and the whole institute began to wait for Mozcafe. We did many mock runs on the auditorium and was all set for the event.&lt;/p&gt;
 
@@ -70,11 +101,11 @@
 
 &lt;p&gt;Many other talks followed and some of the best ones were talk on GSOC, introduction to Github and Blogging. We were once again called to present our 2nd video. During the event we asked the audience to write about some cool inventions which they have in their mind. W collected all the idea and made an idea board. The best ideas were rewarded with Parker pens. We also managed to give the audience snacks among with fruity and munch. When the event ended most of them had had a feeling of achievement in their face.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/vishnuks.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/vishnuks.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mozcafe organized by Firefox club was able to bring many changes in the campus. Many of my friends contacted me on on Facebook asking for help to get started on Google Summer Of Code. Some of them had doubts on IRCs while some had problem with MDN and gitHub. A wiki media club is also to be launched in the coming semester by some students who want to contribute to free and open source.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://hackerkid.github.io/images/all.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/all.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I am happy to be a part of the change which is now taking place in IIIT Allahabad. More over doing good not only feels good. It also leads to better good.&lt;/p&gt;
 </description>
