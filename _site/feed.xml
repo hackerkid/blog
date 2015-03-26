@@ -6,8 +6,8 @@
 </description>
     <link>http://hackerkid.github.io/</link>
     <atom:link href="http://hackerkid.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Mar 2015 15:30:28 +0530</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2015 15:30:28 +0530</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2015 15:33:59 +0530</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2015 15:33:59 +0530</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -58,15 +58,15 @@
         <title>Recreating the Infamous Facemash</title>
         <description>&lt;p&gt;Yesterday was a hell of a day. We re-created the infamous Facemash in less than 4 hours. The idea to re-create Facemash started with a debate  among my roommates who are from different states of India.  I started shouting to Bhagyraj and Harish that Kerala is the most beautiful state in India. Well, even though its is true :p my roommates did’t agree with that.  We thought of a solution to settle this problem but none seemed working. At last I came up with the most stupid solution one can ever find. Recreate Facemash for rating pictures of our states.  Bhagyraj and Harish shouted “Hell, Yeah”  and we started working on the site.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://images-vishnu7.rhcloud.com/comparo.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/comparo.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We used the famous Elo algorithm for rating the pictures.  If you are not familiar with the Elo algoritham, then Google it.  I will try to explain the basic implementation of Elo algorithm for rating players. If you want to rate two players then the new rating of player A looks something like this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://images-vishnu7.rhcloud.com/elo-rating.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/elo-rating.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;K is the “k factor”, an arbitrary multiplier (a higher k factor means higher rating volatility), S is the total score in a rated event, and E is the total expected score in a rated event, which is calculated by&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://images-vishnu7.rhcloud.com/elo-rating-vishnu.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/elo-rating-vishnu.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We implemented the website in PHP and Twitter Bootstrap.  Once the website was done we got suggestions from some alpha testers to include the pics of College girls instead of pictures of different states from where we hail.  Well, as we had complete respect for the girls in our campus and didn’t want to hurt anyone we decided to go for rating film stars at the last minute before the launch  instead of pictures of states.&lt;/p&gt;
 
