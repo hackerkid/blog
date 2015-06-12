@@ -1,3 +1,15 @@
+/*
+ * Expando - jQuery Plugin
+ * Your text will grow on you!
+ *
+ * Copyright (c) 2012 Andrew Cantino
+ *
+ * Version: 0.1.0 (9/14/2012)
+ * Requires: jQuery, jQuery UI
+ *
+ * Licensed under the MIT License
+ *   http://www.opensource.org/licenses/mit-license.php
+ */
 
 ;
 (function($) {
