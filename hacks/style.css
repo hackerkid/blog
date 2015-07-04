@@ -8,9 +8,18 @@
 	font-size: 18px;
 }
 
-#heading #mild {
+#mild {
 	text-decoration: none;
 	font-size: 14px;
 
 
+}
+
+.vishnu {
+	color: #23527C;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 20px;
+	font-size: 52px;
+	font-family: "gothic-open-shaded","Adobe Caslon Pro",Caslon,Baskerville,Palatino,"Palatino Linotype","Hoefler Text",Garamond,"URW Palladio L","Book Antiqua",Georgia,serif;
 }
