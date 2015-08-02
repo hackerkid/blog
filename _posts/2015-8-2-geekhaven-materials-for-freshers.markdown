@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GeekHaven material for freshers"
-date:   2014-6-18 11:02:35
+date:   2015-8-2 12:32:35
 categories: geekhaven events
 ---
 
