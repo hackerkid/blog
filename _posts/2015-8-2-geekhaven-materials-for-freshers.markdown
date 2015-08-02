@@ -3,7 +3,6 @@ layout: post
 title:  "GeekHaven material for freshers"
 date:   2014-6-18 11:02:35
 categories: geekhaven events
-published: false
 ---
 
 This blog post is dedicated to  the freshers of B2k15 batch. I promised you to send the introductary material of GeekHaven. Here it is.
