@@ -5,7 +5,7 @@ date:   2015-8-2 12:32:35
 categories: geekhaven events
 ---
 
-This blog post is dedicated to  the freshers of B2k15 batch. I promised you to send the introductary material of GeekHaven. Here it is.
+This blog post is dedicated to  the freshers of B2k15 batch. I have assembled all the Videos and PPTs of GeekHaven shown at the day of orientation in one place. Check them out. 
 
 ###FOSS
 * [Video](https://www.youtube.com/watch?v=a6cc43X2zH8) 
