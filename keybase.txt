@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vishnuks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vishnuks.com
+  * I am vishnuks (https://keybase.io/vishnuks) on keybase.
+  * I have a public key with fingerprint CFF4 07C5 EAC1 E497 2ACA  8BCA F35F 9D8A 1378 3206
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018d17567a958cc3d185f27ea9dd4e1e5d1d3ab2f0ff147a238108bf5bb7a2a7c70a",
+            "fingerprint": "cff407c5eac1e4972aca8bcaf35f9d8a13783206",
+            "host": "keybase.io",
+            "key_id": "f35f9d8a13783206",
+            "kid": "01018d17567a958cc3d185f27ea9dd4e1e5d1d3ab2f0ff147a238108bf5bb7a2a7c70a",
+            "uid": "92a32c376650a0fd58426d32f3f6f419",
+            "username": "vishnuks"
+        },
+        "service": {
+            "hostname": "vishnuks.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1443536250,
+    "expire_in": 157680000,
+    "prev": "1b247afe91b2659b6d7f34edd4e877108791d007c1851b1a47850d4317bbd4e3",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.46
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD4nU06nm3Q5VhDBgpUgh529ze4hTIowohvdpKyOMzuzx0U9
+e9rdc9TKKKOrPnSPKE2pEJGyhyIxEyvFsIjSCKIeullQCBFBFyqalXqJHpuXmf+f
+7/vm/7/5e8an+YL+mpLWzYG8to/+uzdPJH3rgvVbt3HYIlVcZBtXSkc2Wkao40ZL
+TcJFOB7wQCUAygpEmqzqukiAKhsCpEgjRKKAygQQEWHB4A0DSBAJogp4FRsyxixA
+UIc84nI5w4zHqJ2wzbjLZHXDkHioyxTpgEoaFJCOVKwjQ5QNjagIiFAVBV5hxBLL
+8RisOIwcGjYtlmNBdKS8f+D/c93JETlNQKKgi1BRZB7xBpFVSVCIKBiioRgS0Dyg
+Q+04KqcMnTKdkniy1OGqczmWTZk69Yz1OvkLEdatcsZN2JZr6VYZuylx3UTEI7pV
+CQ9ZQXH0t0YUm3HCbGSEFLUd04pzEcCQumt6okCSRFlUBJnP5WhlwrRp1PQQMlRU
+ni3vGZpikgALrF+DauygyBpWCDREiXq2qBAyE6AGCM++hzkGMEASVGWeSCKAGDOM
+yHldbYlbXERjZaIYk3TMWBy5SZty1be6N472+YO+jPRR3nj5gmMy/wzdtE8BX/uc
+wRs1u5J9vb7FY18evbTsRM7b5c6Pwjz/z8wVd96HVtdHai/ufNf/Ir/hy7Sqlfjy
+/q59XzLWX/MPP+zBdcPN9yd2TulraQlOqLytuM3Wtw8tK+DX8Q3j9tLDlUOfZzcO
+NNn1DwYehdKfzj9W1Nw4aVbI3PWmNXx2aEesvf/7oZauRW6WuubB2nuhmle2/nZp
+cSA8+Lh++6aFdeeu0I7CPdHuJ9ebiqfWZs949XjB6sqlgd2rMnrOVzQfS0vN6y33
+2fs787P5ih/V1WXZz8m9gmSHP3x8UtuG8AUrBz/Lu3q6b3KBIxw4UDcqMNeuPXlk
+Zv7lrCWnurJyD44rOvPaH+6Z/gsKmzxp
+=WeEs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vishnuks
+
+==================================================================
