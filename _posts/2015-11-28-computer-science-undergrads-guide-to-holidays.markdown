@@ -60,6 +60,8 @@ Here are my favorite Linux Distros in decreasing order.
 ###Put all the code on Github
 Whatever code you write make sure that you put it on Github the same day. There are many reasons behind this practise.
 * You keep on writing the code each and every day to keep youur streak
+* 
+![Sindre Sorhus Steak](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/streak.png)
 * You get an awesome Github profile
 * You become an open source contributor automatically.  
 
