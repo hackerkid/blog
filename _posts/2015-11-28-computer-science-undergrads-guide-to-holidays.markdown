@@ -30,6 +30,9 @@ It is very important to write the code when you learn a new algorithm or data st
 * [Codechef](http://codechef.com/)
 * [Codeforces](http://codeforces.com)
 
+![Codeforces](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/codeforces.jpg)
+
+
 Among this the USACO training gateway contains both Tutorials and Problems organized in a systematic way. This site would help you to learn the basic fundamentals quickly if you don't have much experience with algorithms. 
 
 LightOJ contains problems organized category wise and is a good resource for preparing for ACM ICPC. 
@@ -57,14 +60,6 @@ Here are my favorite Linux Distros in decreasing order.
 
  [One Million Visitors in 10 Days](http://feross.org/youtube-instant-media-frenzy/)
 
-###Put all the code on Github
-Whatever code you write make sure that you put it on Github the same day. There are many reasons behind this practise.
-* You keep on writing the code each and every day to keep your streak
-
-![Sindre Sorhus Steak](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/streak.png)
-* You get an awesome Github profile
-* You become an open source contributor automatically.
-* Bonus - You get more followers on Github
 
 ###Do Side Projects
 
@@ -72,13 +67,27 @@ From the Quora question - [Why is it difficult for Indian students to get an int
 
 >How many of us have a webpage, either with our own domain or on our University/College's website? How many of us bother to keep it updated, add relevant information like projects undertaken, neatly written and explained project reports, demos if possible? I know the answer. Very few. Students in US? Quite a lot! How many of us have well maintained and documented GitHub repositories?
 
-Every CS undergrad knows programming. To stand outside of the crowd you should work on side projects. As told by Sam Altman
+Another reason why you should do side projects as told by Sam Altman. 
 
 > The best companies start out with ideas that don’t sound very good.  They start out as projects, and in fact sometimes they sound so inconsequential the founders wouldn't let themselves work on them if they had to defend them as a company.  Google and Yahoo started as grad students’ projects.  Facebook was a project Zuckerberg built while he was a sophomore in college.  Twitter was a side project that started with a single engineer inside a company doing something totally different.  Airbnb was a side project to make some money to afford rent.  They all became companies later.
 
 
 ###Web Development
-You can't make projects out of thin air. You need to have some basic development skills to get started. I would suggest to start with web development. I would suggest you to follow this order. 
+You can't make projects out of thin air. You need to have some basic development skills to get started. I would suggest to start with web development. 
+
+Make sure that you have a decent text editor before starting. Here are my favorites for web development in Decreasing order (VIM is my favorite text editor for C/C++ but I don't use it for web development).
+
+* Sublime Text
+* Visual Studio Code
+* Brackets
+* Atom
+* Notepad++ (Windows)
+
+![Subl](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/subl.jpg)
+
+
+ I would suggest you to follow this order. 
+
 * Learn HTML and basic CSS from [W3C Schools](www.w3schools.com/)
 
 ####Back End
@@ -91,14 +100,90 @@ You can't make projects out of thin air. You need to have some basic development
 
 #####Javascript
 
-Once you are comfortable with the back end you can start focusing on building a better front end. This can be accomplished by learning Javascript. Javascript is the programming language for the browser and helps to add cool things to the front end. Have you noticed the posts filling automatically when you reach the bottom of the browser? This is done with the help of Javascript. So is that menu that appears when you click on the settings page. There are many awesome resources to learn Javascript. 
+ Javascript is the programming language for the browser and helps to add cool things to the front end. Have you noticed the posts filling automatically when you reach the bottom of the browser? This is done with the help of Javascript. So is that menu that appears when you click on the settings page. There are many awesome resources to learn Javascript. 
 
 * [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript Tutorial - W3Schools](http://www.w3schools.com/js/)
 
 #####Bootstrap
-Most of the people I know sucks at making a Good user interface. It takes a lot of time and skill to become a good front end developer. For people who don't have much time to spend on their small project [Bootstrap](getbootstrap.com) is the way to go. Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.
+It takes a lot of time and skill to become a good front end developer. For people who don't have much time to spend on their small project [Bootstrap](getbootstrap.com) is the way to go. Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
+
+There are many alternatives to Bootstrap. Some of them are. 
+
+* [Google Material Design](http://www.getmdl.io/)
+* [Foundation](foundation.zurb.com/)
+
+You don't need to read any tutorial for learning these. Just follow the documentation and start experimenting. 
+
+Once you have learned all these you should make something awesome. During my first semester holidays I made a website called [Datester](http://web.archive.org/web/20140109121612/http://datester.net/) after learning all these.
+
+###Put all the code on Github
+Whatever code you write make sure that you put it on Github the same day. There are many reasons behind this practise.
+* You keep on writing the code each and every day to keep your streak
+
+![Sindre Sorhus Steak](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/streak.png)
+* You get an awesome Github profile
+* You become an open source contributor automatically.
+* Bonus - You get more followers on Github
 
 
+###Becoming a Geek
+Here are some more things you should do. 
+
+####A Cool account handle
+Its always good to have that one username which you could almost use everywhere, for all your geek-stuff accounts. So when you start the journey, take some time to create a cool and unique username which you think no one is likely to use any soon. eg  tourist, humblefool, dragonslayer, hackerkid(that's me)
+
+####Your own personal Blog and Website
+Need inspiration?
+
+* [Blog of Feross](http://feross.org/)
+* [Raj Vir's website](http://rjvir.com/)
+* [Victor Lourng's website](http://2014.victorlourng.com/)
+
+###Getting Online
+Once you are done with your website and blog it's time to put them online. For putting a website online you need a server. There are many free web hosting sites out there but believe me they sucks. They come and disappear all the time. Luckily as you are student you can use the [Github for students](https://education.github.com/pack) pack. It is free for all the University students and comes with a tons of useful things like
+
+* $100 hosting credit from Digital Ocean - You can start a server ($5 per month Ubuntu server would do the job) and put your website online. It asks for a credit card while signing up. You can skip this step my mailing the customer service with your college id. 
+* One year .me domain name for free
+* Private Github repos
+* Tons of [other](https://education.github.com/pack) features 
+
+####Other Alternatives
+* You can also host your website on Github Pages if it only have static content(ie no backend like PHP and MySQL)
+* Use Openshift or Heroku as long as your website don't attract too much traffic. 
+
+###Movies and Books
+There are some Movies and Books that would change the way you think. Here are some of my favorites for Hackers
+
+####Movies
+
+* Social Network
+* October Sky
+* Pirates of Silicon Valley
+* Whiplash
+* Pursuit of Happiness 
+* The Wolf of the Wall Street
+
+####Books
+
+* Elon Musk the quest for a fantastic future by Ashlee Vance
+* Steve Jobs by Walter Isaacson
+* Zero to One by Peter Thiel
+* Hackers and Painters by Paul Graham
+
+
+##Summing Up
+This blog post was aimed at getting you started with computer science and development. I have ignored many things like Internships, Research papers, etc. If you want to add more to this blog post why not
+
+* [Edit this page](https://github.com/hackerkid/hackerkid.github.io/blob/master/_posts/2015-11-28-computer-science-undergrads-guide-to-holidays.markdown) and send a pull request(If you are new to Github then this can be your first open source contribution)
+* [Make a comment here](https://github.com/hackerkid/hackerkid.github.io/issues/new)
+
+##More Useful Blog Posts / Resources
+* [Path to a free self-taught education in Computer Science](https://github.com/open-source-society/computer-science)
+* [First timers only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455) - This blog post would help you a lot in getting started to open source. 
+* [None of Us Knows What We're Doing](http://feross.org/none-of-us-knows-what-were-doing/) by Feross
+* [Essays by Paul Graham](http://www.paulgraham.com/articles.html) - Every aspiring Entrepreneur should read this
+* [Always be Coding](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2) 
+* [What would people advise a (hypothetical) 22-year-old college graduate to do with his or her life?](http://www.quora.com/What-would-you-advise-your-hypothetical-22-year-old-college-graduate-to-do-with-their-life)
 
 
