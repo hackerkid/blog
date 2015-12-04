@@ -68,11 +68,37 @@ Whatever code you write make sure that you put it on Github the same day. There 
 
 ###Do Side Projects
 
-<span class="quora-content-embed" data-name="Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups/answer/Sujeet-Gholap">Read <a class="quora-content-link" data-width="559" load-full-answer="False" data-key="c5ccf8335f08ea94f033dc2a119432eb" data-id="3009916" data-embed="nrqkpmp" href="https://www.quora.com/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups/answer/Sujeet-Gholap" data-type="answer" data-height="250"><a href="https://www.quora.com/Sujeet-Gholap">Sujeet Gholap</a>&#039;s <a href="/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups#ans3009916">answer</a> to <a href="/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups" ref="canonical">Why is it difficult for Indian students to get an internship at Facebook, Quora, Dropbox, Google, Twitter or other startups?</a></a> on <a href="https://www.__nousername__.main.quora.com">Quora</a><script type="text/javascript" src="https://www.quora.com/widgets/content"></script></span>
+From the Quora question - [Why is it difficult for Indian students to get an internship at Facebook, Quora, Dropbox, Google, Twitter or other startups?](https://www.quora.com/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups)
+
+>How many of us have a webpage, either with our own domain or on our University/College's website? How many of us bother to keep it updated, add relevant information like projects undertaken, neatly written and explained project reports, demos if possible? I know the answer. Very few. Students in US? Quite a lot! How many of us have well maintained and documented GitHub repositories?
 
 Every CS undergrad knows programming. To stand outside of the crowd you should work on side projects. As told by Sam Altman
 
 > The best companies start out with ideas that don’t sound very good.  They start out as projects, and in fact sometimes they sound so inconsequential the founders wouldn't let themselves work on them if they had to defend them as a company.  Google and Yahoo started as grad students’ projects.  Facebook was a project Zuckerberg built while he was a sophomore in college.  Twitter was a side project that started with a single engineer inside a company doing something totally different.  Airbnb was a side project to make some money to afford rent.  They all became companies later.
+
+
+###Web Development
+You can't make projects out of thin air. You need to have some basic development skills to get started. I would suggest to start with web development. I would suggest you to follow this order. 
+* Learn HTML and basic CSS from [W3C Schools](www.w3schools.com/)
+
+####Back End
+
+
+* [Learn PHP](http://www.w3schools.com/php/default.asp) - PHP is one of the easiest language for back end development. If you are not familiar with the term back end imagine it as the part that handles account creation, login, storing posts, retrieving the number of likes etc in Facebook.
+* [Learn SQL](http://www.w3schools.com/sql/default.asp) - SQL is a special-purpose programming language designed for managing data held in a relational database management system. In the case of Facebook all the posts and comments would be stored in a database and retrieved through  SQL. Once stored you can get the post from SQL by asking queries like `GET all the posts of user Vishnu which has more than 150 likes`. The query for this would be `SELECT * from posts WHERE addedBy = 'Vishnu' and likes > 150`
+
+####Front End
+
+####Javascript
+
+Once you are comfortable with the back end you can start focusing on building a better front end. This can be accomplished by learning Javascript. Javascript is the programming language for the browser and helps to add cool things to the front end. Have you noticed the posts filling automatically when you reach the bottom of the browser? This is done with the help of Javascript. So is that menu that appears when you click on the settings page. There are many awesome resources to learn Javascript. 
+
+* [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
+* [JavaScript Tutorial - W3Schools](http://www.w3schools.com/js/)
+
+####Bootstrap
+Most of the people I know sucks at making a Good user interface. It takes a lot of time and skill to become a good front end developer. For people who don't have much time to spend on their small project [Bootstrap](getbootstrap.com) is the way to go. Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.
+
 
 
 
