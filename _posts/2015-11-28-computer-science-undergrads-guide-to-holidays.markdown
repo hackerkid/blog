@@ -89,14 +89,14 @@ You can't make projects out of thin air. You need to have some basic development
 
 ####Front End
 
-####Javascript
+#####Javascript
 
 Once you are comfortable with the back end you can start focusing on building a better front end. This can be accomplished by learning Javascript. Javascript is the programming language for the browser and helps to add cool things to the front end. Have you noticed the posts filling automatically when you reach the bottom of the browser? This is done with the help of Javascript. So is that menu that appears when you click on the settings page. There are many awesome resources to learn Javascript. 
 
 * [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript Tutorial - W3Schools](http://www.w3schools.com/js/)
 
-####Bootstrap
+#####Bootstrap
 Most of the people I know sucks at making a Good user interface. It takes a lot of time and skill to become a good front end developer. For people who don't have much time to spend on their small project [Bootstrap](getbootstrap.com) is the way to go. Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.
 
 
