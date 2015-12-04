@@ -94,14 +94,15 @@ Make sure that you have a decent text editor before starting. Here are my favori
 
 ####Front End
 
-#####Javascript
+**Javascript**
 
  Javascript is the programming language for the browser and helps to add cool things to the front end. Have you noticed the posts filling automatically when you reach the bottom of the browser? This is done with the help of Javascript. So is that menu that appears when you click on the settings page. There are many awesome resources to learn Javascript. 
 
 * [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript Tutorial - W3Schools](http://www.w3schools.com/js/)
 
-#####Bootstrap
+**Bootstrap**
+
 It takes a lot of time and skill to become a good front end developer. For people who don't have much time to spend on their small project [Bootstrap](getbootstrap.com) is the way to go. Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 
 There are many alternatives to Bootstrap. Some of them are. 
@@ -149,7 +150,7 @@ Once you are done with your website and blog it's time to put them online. For p
 * Use Openshift or Heroku as long as your website don't attract too much traffic. 
 
 ###Movies and Books
-There are some Movies and Books that would change the way you think. Here are some of my favorites for Hackers
+There are some Movies and Books that would change the way you think. Here are some of my favorites
 
 ####Movies
 
@@ -166,6 +167,9 @@ There are some Movies and Books that would change the way you think. Here are so
 * Steve Jobs by Walter Isaacson
 * Zero to One by Peter Thiel
 * Hackers and Painters by Paul Graham
+* Predictably Irrational by Dan Ariely
+* Programming Pearls by Jon Bentley
+
 
 
 ##Summing Up
@@ -181,5 +185,6 @@ This blog post was aimed at getting you started with computer science and develo
 * [Essays by Paul Graham](http://www.paulgraham.com/articles.html) - Every aspiring Entrepreneur should read this
 * [Always be Coding](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2) 
 * [What would people advise a (hypothetical) 22-year-old college graduate to do with his or her life?](http://www.quora.com/What-would-you-advise-your-hypothetical-22-year-old-college-graduate-to-do-with-their-life)
+
 
 
