@@ -90,7 +90,7 @@ Make sure that you have a decent text editor before starting. Here are my favori
 
 
 * [Learn PHP](http://www.w3schools.com/php/default.asp) - PHP is one of the easiest language for back end development. If you are not familiar with the term back end imagine it as the part that handles account creation, login, storing posts, retrieving the number of likes etc in Facebook.
-* [Learn SQL](http://www.w3schools.com/sql/default.asp) - SQL is a special-purpose programming language designed for managing data held in a relational database management system. In the case of Facebook all the posts and comments would be stored in a database and retrieved through  SQL. Once stored you can get the post from SQL by asking queries like `GET all the posts of user Vishnu which has more than 150 likes`. The query for this would be `SELECT * from posts WHERE addedBy = 'Vishnu' and likes > 150`
+* [Learn SQL](http://www.w3schools.com/sql/default.asp) - SQL is a special-purpose programming language designed for managing data held in a relational database management system. In the case of Facebook all the posts and comments would be stored in a database and retrieved through  SQL. Once stored you can get the post from SQL by asking queries like `GET all the posts of user Vishnu which has more than 150 likes`. The query for this would be `SELECT * from posts WHERE user = 'Vishnu' and likes > 150`
 
 ####Front End
 
