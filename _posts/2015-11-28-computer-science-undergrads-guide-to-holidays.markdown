@@ -190,6 +190,7 @@ This blog post was aimed at getting you started with computer science and develo
 * [Essays by Paul Graham](http://www.paulgraham.com/articles.html) - Every aspiring Entrepreneur should read this
 * [Always be Coding](https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2) 
 * [What would people advise a (hypothetical) 22-year-old college graduate to do with his or her life?](http://www.quora.com/What-would-you-advise-your-hypothetical-22-year-old-college-graduate-to-do-with-their-life)
+* [What should a CS undergrad do to compete globally?](https://apexkid1.wordpress.com/2013/12/24/what-should-a-cs-undergrad-do-to-compete-globally/)
 
 
 
