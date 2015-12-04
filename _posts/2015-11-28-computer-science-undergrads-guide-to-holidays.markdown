@@ -114,6 +114,10 @@ You don't need to read any tutorial for learning these. Just follow the document
 
 Once you have learned all these you should make something awesome. During my first semester holidays I made a website called [Datester](http://web.archive.org/web/20140109121612/http://datester.net/) after learning all these.
 
+###Scaling and Beyond
+
+It is very important to design web applications that are easily scalable. If you are interested in this topic I would suggest you to take the [Web Development](https://www.udacity.com/course/web-development--cs253) course on Udacity taken by the Co-Founder/CEO of Reddit Steve Huffman.
+
 ###Put all the code on Github
 Whatever code you write make sure that you put it on Github the same day. There are many reasons behind this practise.
 * You keep on writing the code each and every day to keep your streak
