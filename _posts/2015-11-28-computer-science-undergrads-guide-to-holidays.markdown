@@ -63,11 +63,7 @@ Here are my favorite Linux Distros in decreasing order.
 
 ###Do Side Projects
 
-From the Quora question - [Why is it difficult for Indian students to get an internship at Facebook, Quora, Dropbox, Google, Twitter or other startups?](https://www.quora.com/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups)
-
->How many of us have a webpage, either with our own domain or on our University/College's website? How many of us bother to keep it updated, add relevant information like projects undertaken, neatly written and explained project reports, demos if possible? I know the answer. Very few. Students in US? Quite a lot! How many of us have well maintained and documented GitHub repositories?
-
-Another reason why you should do side projects as told by Sam Altman. 
+Sam Altman has explained why you should do side projects in his famous blog post [Projects and Companies](http://blog.samaltman.com/projects-and-companies). Here is an extract. 
 
 > The best companies start out with ideas that don’t sound very good.  They start out as projects, and in fact sometimes they sound so inconsequential the founders wouldn't let themselves work on them if they had to defend them as a company.  Google and Yahoo started as grad students’ projects.  Facebook was a project Zuckerberg built while he was a sophomore in college.  Twitter was a side project that started with a single engineer inside a company doing something totally different.  Airbnb was a side project to make some money to afford rent.  They all became companies later.
 
