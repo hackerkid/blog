@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Hitch Hackers Guide to Computer Science"
+title:  "A Hitchhicker's Guide to Computer Science"
 date:   2015-11-28 01:08:35
 categories: guide
 ---
@@ -53,4 +53,13 @@ Here are my favorite Linux Distros in decreasing order.
 * [Mint](linuxmint.com/) - Built over Ubuntu and looks similar like Windows. 
 
 ###Read Hacker News
+ Anything that good hackers would find interesting. That includes more than hacking and startups. If you had to reduce it to a sentence, the answer might be: anything that gratifies one's intellectual curiosity. Almost everyone in the Tech industry reads Hacker news. If you make something cool you should post it in Hacker News. Who knows what happens after that?
+
+ [One Million Visitors in 10 Days](http://feross.org/youtube-instant-media-frenzy/)
+
+###Put all the code on Github
+Whatever code you write make sure that you put it on Github the same day. There are many reasons behind this practise.
+* You keep on writing the code each and every day to keep youur streak
+* You get an awesome Github profile
+* You become an open source contributor automatically.  
 
