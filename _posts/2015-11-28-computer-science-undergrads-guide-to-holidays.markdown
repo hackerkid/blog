@@ -59,9 +59,20 @@ Here are my favorite Linux Distros in decreasing order.
 
 ###Put all the code on Github
 Whatever code you write make sure that you put it on Github the same day. There are many reasons behind this practise.
-* You keep on writing the code each and every day to keep youur streak
-* 
+* You keep on writing the code each and every day to keep your streak
+
 ![Sindre Sorhus Steak](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/streak.png)
 * You get an awesome Github profile
-* You become an open source contributor automatically.  
+* You become an open source contributor automatically.
+* Bonus - You get more followers on Github
+
+###Do Side Projects
+
+<span class="quora-content-embed" data-name="Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups/answer/Sujeet-Gholap">Read <a class="quora-content-link" data-width="559" load-full-answer="False" data-key="c5ccf8335f08ea94f033dc2a119432eb" data-id="3009916" data-embed="nrqkpmp" href="https://www.quora.com/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups/answer/Sujeet-Gholap" data-type="answer" data-height="250"><a href="https://www.quora.com/Sujeet-Gholap">Sujeet Gholap</a>&#039;s <a href="/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups#ans3009916">answer</a> to <a href="/Why-is-it-difficult-for-Indian-students-to-get-an-internship-at-Facebook-Quora-Dropbox-Google-Twitter-or-other-startups" ref="canonical">Why is it difficult for Indian students to get an internship at Facebook, Quora, Dropbox, Google, Twitter or other startups?</a></a> on <a href="https://www.__nousername__.main.quora.com">Quora</a><script type="text/javascript" src="https://www.quora.com/widgets/content"></script></span>
+
+Every CS undergrad knows programming. To stand outside of the crowd you should work on side projects. As told by Sam Altman
+
+> The best companies start out with ideas that don’t sound very good.  They start out as projects, and in fact sometimes they sound so inconsequential the founders wouldn't let themselves work on them if they had to defend them as a company.  Google and Yahoo started as grad students’ projects.  Facebook was a project Zuckerberg built while he was a sophomore in college.  Twitter was a side project that started with a single engineer inside a company doing something totally different.  Airbnb was a side project to make some money to afford rent.  They all became companies later.
+
+
 
