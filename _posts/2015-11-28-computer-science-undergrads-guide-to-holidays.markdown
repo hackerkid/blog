@@ -98,7 +98,8 @@ Make sure that you have a decent text editor before starting. Here are my favori
 
  Javascript is the programming language for the browser and helps to add cool things to the front end. Have you noticed the posts filling automatically when you reach the bottom of the browser? This is done with the help of Javascript. So is that menu that appears when you click on the settings page. There are many awesome resources to learn Javascript. 
 
-* [JavaScript | Codecademy](https://www.codecademy.com/learn/javascript)
+
+* [Codecademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript Tutorial - W3Schools](http://www.w3schools.com/js/)
 
 **Bootstrap**
