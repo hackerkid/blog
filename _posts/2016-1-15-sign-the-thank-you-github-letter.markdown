@@ -7,6 +7,6 @@ categories: github development
 
 I signed the [Thank You Github](https://github.com/thank-you-github/thank-you-github) letter. 
 
-![img]()
+![letter](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/images/Screenshot%20from%202016-03-14%2004%3A57%3A46.png)
 
 You should also sign it.
