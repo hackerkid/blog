@@ -1,13 +1,9 @@
 ---
 layout: post
-title:  "How the US presidential election results can be predicted by counting High School Graduates"
-date:   2016-4-17 23:25:00
+title:  "The US presidential election results can be predicted by counting High School Graduates"
+date:   2016-6-8 23:25:00
 categories: events
 ---
-
-![Hack In The North]({{ site.url }}/images/opening.jpg)
-
-Hello World
 
 |State         |% of High School Graduates|Winner|
 |--------------|---------------------|------|
