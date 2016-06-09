@@ -5,8 +5,8 @@ date:   2016-6-8 23:25:00
 categories: election
 ---
 
-|State         |% of High School Graduates         |Winner|
-|--------------|-----------------------------------|------|
+|State                      |% of High School Graduates         |Winner|
+|---------------------------|-----------------------------------|------|
 |Wyoming|91.8%|![img]({{ site.url }}/images/sanders.png)|
 |Minnesota|91.5%|![img]({{ site.url }}/images/sanders.png)|
 |Alaska|91.4%|![img]({{ site.url }}/images/sanders.png)|
