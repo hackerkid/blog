@@ -22,7 +22,7 @@ categories: election
 |Nebraska|89.8%|![img]({{ site.url }}/images/sanders.png)|
 |Wisconsin|89.8%|![img]({{ site.url }}/images/sanders.png)|
 |Kansas|89.7%|![img]({{ site.url }}/images/sanders.png)|
-|Washington|89.7%|({{ site.url }}/images/clinton.png)|
+|Washington|89.7%|![img]({{ site.url }}/images/clinton.png)|
 |Colorado|89.3%|![img]({{ site.url }}/images/sanders.png)|
 |Oregon|89.1%|![img]({{ site.url }}/images/sanders.png)|
 |Massachusetts|89.0%|![img]({{ site.url }}/images/clinton.png)|
