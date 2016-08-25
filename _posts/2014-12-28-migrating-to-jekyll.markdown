@@ -9,4 +9,4 @@ Hey there. This is my first blog post since I migrated from my `Wordpress` blog.
 
 <br><center><img src = "/images/goodbye.png" height = "400p"></center><br>	
 
-The main reason I am migrating from Openshift to Github is becuase of the awesome latency of Github pages as compared to Openshift. Since I am using a free hosting in Openshift I have to share my server with other users which results in a very poor uptime and low latency. Since Githug pages doesn't allow database Jekyll is the best option for me right now for puting the blog. 
+The main reason I am migrating from Openshift to Github is becuase of the awesome latency of Github pages as compared to Openshift. Since I am using a free hosting in Openshift I have to share my server with other users which results in a very poor uptime and low latency. Since Githug pages doesn't allow database Jekyll is the best option for me right now for putting the blog. 
