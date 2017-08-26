@@ -1,18 +1,20 @@
-#vishnuks.com website and blog
+# Dasper
+Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/)
 
-Copyright (c) 2015 Vishnu Ks
+## Live demo
+[ozgrozer.com](http://ozgrozer.com)
 
-Hi, I'm Vishnu Ks and this is the source code for my website and blog, http://vishnuks.com. Feel free to browse the source, fork at will, and ask me questions. Sharing is caring!
+## Includes
+- Pagination
+- 404 page
+- Fastclick([@ftlabs](https://github.com/ftlabs/fastclick))
+- Syntax highlighting([@PrismJS](https://github.com/PrismJS/prism))
+- Sitemap generator([@kinnetica](https://github.com/kinnetica/jekyll-plugins))
+- RSS generator([@agelber](https://github.com/agelber/jekyll-rss))
+- HTML compressor(a simple [plugin](https://github.com/ozgrozer/dasper/blob/master/_plugins/htmlCompressor.rb) written by me)
+- Addthis sharing buttons
+- Disquss comments
+- Google analytics tracking
 
-##How it's built
-
-All my posts are written in Markdown. The blog is powered by Jekyll, a static site generator that takes Markdown blog posts and converts them into HTML files. The benefit of this approach are many:
-
-    The blog can be served with almost any web server, since the output of Jekyll is just flat HTML files.
-    The whole blog can easily be version controlled.
-    The blog requires less maintainance (goodbye out-of-date Wordpress installations!)
-
-I host the actual site on Github pages(as it is evident from the repo name) since I don't want to startup a server just for hosting some static pages. 
-
-That's pretty much it.
-
+## Copyright & License
+Copyright (c) 2016 - Released under the MIT License.

@@ -1,8 +1,8 @@
 # Website details
-name: ""
-description: ""
-email: ""
-author: ""
+name: "Vishnu Ks"
+description: "Story of My Life"
+email: "yo@vishnuks.com"
+author: "Vishnu Ks"
 lang: ""
 locale: ""
 
@@ -11,15 +11,14 @@ paginate: 10
 highlighter: ""
 markdown: kramdown
 gems: [jekyll-paginate]
-timezone: Europe/Istanbul
+timezone: Asia/Kolkata
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-
+baseurl: "vishnuks.com"
 # Includes
-addthisId: ""
 disqusUsername: ""
-googleAnalyticsId: ""
+googleAnalyticsId: "UA-105385860-1"
 
 # Search engine verifications
 bing: ""

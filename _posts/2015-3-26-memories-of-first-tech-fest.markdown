@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Beautiful Memories of the first Tech Fest"
+layout: article
+title:  "Memories from the first Tech Fest"
 date:   2015-3-26 02:15:35
 categories: events
+coverPhoto: "/images/codeshow.jpg"
 ---
 
 The first Tech Fest of IIIT Allahabad Aparoksha turned out to be quite awesome. My experience started with Coldfire which was the first offline Technical event of Aparoksha.  Coldfire was an event in which you have to identify the vulnerabilities in web applications. Even though I have a little bit experience in developing small web applications We had very little knowledge in penetration tests. But the unexpected happened on that day. I and my roommate Bhagyaraj emerged as the winner of Coldfire cracking all the 10 problems in Coldfire. The first two questions was based on injecting javascript code through the GET variables.
