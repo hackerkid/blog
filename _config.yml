@@ -15,7 +15,7 @@ timezone: Asia/Kolkata
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: "vishnuks.com"
+baseurl: ""
 # Includes
 disqusUsername: ""
 googleAnalyticsId: "UA-105385860-1"
