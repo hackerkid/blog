@@ -1,8 +1,8 @@
-#vishnuks.com website and blog
+## Hey, how are you doing today!!
 
 Hi, I'm Vishnu Ks and this is the source code for my website and blog, http://vishnuks.com. Feel free to browse the source, fork at will, and ask me questions. Sharing is caring!
 
-##How it's built
+## How it's built
 
 All my posts are written in Markdown. The blog is powered by Jekyll, a static site generator that takes Markdown blog posts and converts them into HTML files. The benefit of this approach are many:
 
