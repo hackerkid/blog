@@ -22,7 +22,7 @@ gems:
 paginateLabel: page
 paginate_path: page/:num
 permalink: "/:categories/:year/:month/:day/:title"
-baseurl: ''
+baseurl: 'vishnuks.com/blog'
 disqusUsername: ''
 googleAnalyticsId: UA-105385860-1
 bing: ''
