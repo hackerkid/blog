@@ -1,8 +1,9 @@
 ---
+title: Memories from the first Tech Fest
+date: 2015-03-26 07:45:35 +05:30
+categories:
+- events
 layout: article
-title:  "Memories from the first Tech Fest"
-date:   2015-3-26 02:15:35
-categories: events
 coverPhoto: "/images/codeshow.jpg"
 ---
 

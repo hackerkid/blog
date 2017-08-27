@@ -1,11 +1,12 @@
 ---
+title: Conducting IIITA'S First Mozcafe
+date: 2014-06-18 16:32:35 +05:30
+categories:
+- creative
+- events
 layout: article
-title:  "Conducting IIITA'S First Mozcafe"
-date:   2014-6-18 11:02:35
-categories: creative events
-coverPhoto: "https://s.aolcdn.com/hss/storage/midas/fb4f84947f119d7a145888857db46d2c/204825462/mozilla.jpg"
+coverPhoto: https://s.aolcdn.com/hss/storage/midas/fb4f84947f119d7a145888857db46d2c/204825462/mozilla.jpg
 ---
-
 
 You may be most probably wondering now what the heck is Mozcafe. Even tough it sounds something like a restaurant it’s not. Mozcafe is an event conducted with the help of `Mozilla foundation` around the world for FOSS lovers to come and interact with each other. Recently a Mozcafe was conducted in IIIT Allahabad with the support of IIIT Allahabad Firefox Club. I was a member of the Firefox Club so I got chance to be a part of the organizing team of Mozcafe along with my super seniors Rahul, Aditya, Jatin, Ankit, Charul, Atul, Ashoka, Pawan and fellow batch mates Anurag and Abhishek. 
 

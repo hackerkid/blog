@@ -1,11 +1,11 @@
 ---
+title: A Computer Fresher's Guide to Programming
+date: 2015-11-28 06:38:35 +05:30
+categories:
+- guide
 layout: article
-title:  "A Computer Fresher's Guide to Programming"
-date:   2015-11-28 01:08:35
-categories: guide
-coverPhoto: "https://idreamcareer.com/img/blog/Computer-Science.jpg"
+coverPhoto: https://idreamcareer.com/img/blog/Computer-Science.jpg
 ---
-
 
 ## Data Structures and Algorithms
 
