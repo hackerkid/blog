@@ -29,7 +29,7 @@ It is very important to write the code when you learn a new algorithm or data st
 * [Codechef](http://codechef.com/)
 * [Codeforces](http://codeforces.com)
 
-![Codeforces](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/codeforces.jpg)
+![Codeforces]({{ site.baseurl }}/static/codeforces.jpg)
 
 
 Among this the USACO training gateway contains both Tutorials and Problems organized in a systematic way. This site would help you to learn the basic fundamentals quickly if you don't have much experience with algorithms. 
@@ -73,7 +73,7 @@ You can't make projects out of thin air. You need to have some basic development
 * Atom
 * Sublime Text
 
-![Subl](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/subl.jpg)
+![Subl]({{ site.baseurl }}/static/subl.jpg)
 
 
  I would suggest you to follow this order. 
@@ -107,7 +107,7 @@ Whatever code you write make sure that you put it on Github the same day. There 
 
 * You keep on writing the code each and every day to keep your streak
 
-![Sindre Sorhus Steak](https://raw.githubusercontent.com/hackerkid/hackerkid.github.io/master/static/streak.png)
+![Sindre Sorhus Steak]({{ site.baseurl }}/static/streak.png)
 
 * You get an awesome Github profile
 * You become an open source contributor.
@@ -159,8 +159,8 @@ There are some Movies and Books that would change the way you think. Here are so
 ## Summing Up
 This blog post was aimed at getting you started with programming and development. I have ignored many things like Internships, Research papers, etc. If you want to add more to this blog post why not
 
-* [Edit this page](https://github.com/hackerkid/hackerkid.github.io/blob/master/_posts/2015-11-28-computer-science-undergrads-guide-to-holidays.markdown) and send a pull request(If you are new to Github then this can be your first open source contribution)
-* [Make a comment here](https://github.com/hackerkid/hackerkid.github.io/issues/new)
+* [Edit this page](https://github.com/hackerkid/blog/blob/master/_posts/2015-11-28-computer-science-undergrads-guide-to-holidays.markdown) and send a pull request(If you are new to Github then this can be your first open source contribution)
+* [Make a comment here](https://github.com/hackerkid/blog/issues/new)
 
 ## More Useful Blog Posts / Resources
 * [Path to a free self-taught education in Computer Science](https://github.com/open-source-society/computer-science)
