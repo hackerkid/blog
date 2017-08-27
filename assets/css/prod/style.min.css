@@ -364,6 +364,38 @@ a {
   clear: both; }
 
 /* .cb */
+table {
+  padding: 0; }
+
+table tr {
+  border-top: 1px solid #cccccc;
+  background-color: white;
+  margin: 0;
+  padding: 0; }
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8; }
+
+table tr th {
+  font-weight: bold;
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px; }
+
+table tr td {
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+  text-decoration: none; }
+
+table tr th :first-child, table tr td :first-child {
+  margin-top: 0; }
+
+table tr th :last-child, table tr td :last-child {
+  margin-bottom: 0; }
+
 /* http://prismjs.com/download.html?themes=prism-okaidia&languages=markup+css+clike+javascript+actionscript+applescript+bash+coffeescript+css-extras+git+haml+ini+java+less+markdown+php+php-extras+powershell+python+ruby+scss+sql+stylus+typescript+wiki+yaml&plugins=line-highlight+line-numbers */
 /**
  * okaidia theme for JavaScript, CSS and HTML
@@ -1105,10 +1137,10 @@ main {
             max-height: 99px; } }
         @media (min-width: 1200px) and (max-width: 1919px) {
           main > section article > .max-height {
-            max-height: 105px; } }
+            max-height: 90px; } }
         @media (min-width: 1920px) {
           main > section article > .max-height {
-            max-height: 111px; } }
+            max-height: 90px; } }
       main > section article > section, main > section article > section p, main > section article > section a {
         color: #3A4145; }
       main > section article > section, main > section article > section *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
@@ -1132,12 +1164,12 @@ main {
             line-height: 33px; } }
         @media (min-width: 1200px) and (max-width: 1919px) {
           main > section article > section, main > section article > section *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
-            font-size: 21px;
-            line-height: 35px; } }
+            font-size: 19px;
+            line-height: 30px; } }
         @media (min-width: 1920px) {
           main > section article > section, main > section article > section *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
-            font-size: 23px;
-            line-height: 37px; } }
+            font-size: 19px;
+            line-height: 30px; } }
       main > section article pre.pure {
         padding: 1em;
         color: #c7254e;
