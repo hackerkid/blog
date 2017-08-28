@@ -8,14 +8,14 @@ layout: article
 coverPhoto: /blog/images/gsoc-cover.png
 ---
 
-I spend this summer doing [Google Summer of Code](https://summerofcode.withgoogle.com) with [Zulip](https://zulip.org). This blog post summarizes the work that I did. All my work was to improve or add new features to the [Zulip server](https://github.com/zulip/zulip/). As a result I was able to work on a multitude of areas covering frontend, backened, management commands etc.
+I spent this summer doing [Google Summer of Code](https://summerofcode.withgoogle.com) with [Zulip](https://zulip.org). This blog post summarizes the work that I did. All my work was to improve or add new features to the [Zulip server](https://github.com/zulip/zulip/). As a result I was able to work on a multitude of areas covering frontend, backened, management commands etc.
 
 ![GSOC Image]({{site.baseurl}}/images/gsoc2017.png)
 
 ## Merged Pull Requests
 
-* Except for the first table all other tables list pull requests that are aimed at solving one problem. The first tables lists pull requestss that are independent of each other.
-* Note that all the pull requests listed in this section are merged. But most of them have closed label on it as Zulip merges pull requestss manually.
+* Except for the first table all other tables list pull requests that are aimed at solving one problem. The first tables lists pull requests that are independent of each other.
+* Note that all the pull requests listed in this section are merged. But most of them have closed label on it as Zulip merges pull requests manually.
 
 |**No**|**Pull Request**|
 |1|Show detailed message why password is weak to user. [#5500](https://github.com/zulip/zulip/pull/5500)|
@@ -65,7 +65,7 @@ The following pull requests were made for accomplishing this.
 |1|Python dependency upgrade [#6169](https://github.com/zulip/zulip/pull/6169)|
 |2|Python dependency upgrade [#5450](https://github.com/zulip/zulip/pull/5450)|
 
-* I also worked on many pull requestss that replaced hardcoded emails with helper functions.
+* I also worked on many pull requests that replaced hardcoded emails with helper functions.
 
 |**No**|**Pull Request**|
 |------|----------------|
@@ -85,7 +85,7 @@ The following pull requests were made for accomplishing this.
 
 ## Work Remaining
 
-* [#5656](https://github.com/zulip/zulip/pull/5441) needs some work before getting merged.
+* [#5656](https://github.com/zulip/zulip/pull/5656) needs some work before getting merged.
 
 
 
