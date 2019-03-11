@@ -18,7 +18,8 @@ paginate: 10
 highlighter: ''
 markdown: kramdown
 gems:
-- jekyll-paginate
+  - jekyll-paginate
+  - jekyll-feed
 paginateLabel: page
 paginate_path: page/:num
 permalink: "/:categories/:year/:month/:day/:title"
