@@ -1,0 +1,310 @@
+---
+title: Euro Trip 2019
+date: 2019-11-30 18:00 +5:30
+categories:
+- travel
+- hackathon
+layout: article
+coverPhoto: /blog/images/copenhagen.jpeg
+---
+
+I traveled to Europe for 2 weeks this year. This is my attempt to log the trip down so that it would help me as well as others in the future.
+
+The idea of the trip started when I got selected for ETHBerlinZwei. ETHBerlin is a hackathon focused on Ethreum that takes place in Berlin. You might at this point think that I am into Ethereum too much. But the reality is far from that. I had a deep interest in decentralized systems since the early years of my college. My first-semester project in college was building a decentralized social network on top of the Tox protocol. Last year I built a decentralized publishing platform using Webtorrent and it made into the front page of Hacker News. So when I came to know about Ethreum it was only natural for me to be excited about it. But I didn’t explore the field much until ETHIndia happened in Bangalore last year. I decided to participate in ETHIndia along with my friend to know more about Ethreum space. We also started to learn a bit about how to build applications on EThreum. The event happened and we did end up winning a prize. Ethreum ecosystem at that time was still in its early days. People were trying everything to make Ethereum scale as well as build apps that have mainstream adoption. But things were not going that well. So it was a perfect opportunity for me to see what all changed in the last 1 year when I got selected for ETHBerlinZwei. Plus there was also some travel reimbursement.
+
+
+
+Almost 3 weeks were remaining for the event when I got the acceptance letter. But there were two issues.
+
+- Visa - I am an Indian national so I need to apply for Schengen Visa. 
+- Ticket price - I can buy the tickets only when I get Visa. This means the ticket which was already too expensive at that point would become even more expensive. 
+- I have to travel alone and go to the hackathon without a partner.
+
+I was able to get help from my friends who went to Europe before on how to proceed with Visa. They made this process so much easier for me. As far as the ticket price was concerned I told myself that I would somehow win a prize in the hackathon and cover the expenses. I had traveled before alone once outside India so I knew the 3rd issue was not a big deal. And I decided to go to the hackathon alone.
+
+
+## Visa
+
+It took me around 2 - 3 days to get all the documents for the Visa. Schengen Visa tells what all documents I have to bring so all I had to do was get those documents. I booked for appointment in the VFS center in Ravipuram, Kochi. The photo I submitted had the wrong background color so I had to go out and get the photo taken again. Also, I forgot to take the printout of the main application form so I had to get it taken from VFS. Apart from that, all went well. I got the Visa after almost 8 days. I booked a flight from Banglore to Berlin via Doha the day I got Visa. The reason I booked the flight from Bangalore instead of Kochi was that it was cheaper and Kochi Airport was closed at that time because of Kerala floods. So it was not sure whether the airport would be opened on the day of my flight. If I book from Bangalore all I have to do is take a bus from Kochi.
+
+
+## Planning
+
+Planning the trip is harder than the Visa process because there are so many options in Europe. The countries are the size of states in India and you can go from one to another on a bus in a matter of hours. I talked with friends who have traveled to Europe for suggestions and tips. I am now going to write down the most important tips.
+
+**Stay in hostel**
+
+- Stay in hostels. Hostels are so much cheaper than hotels. You can get a hostel for 10 - 20 euros in most European cities.
+- Most of the hostels have some facilities to prepare food. Some of them even have free stuff that you can use to make food.
+- Hostels are a great way to meet new people. Talk with people in the hostel and listen to their travel stories.
+- Hostels often provide storage facilities of luggage before check in. It can be a locker only for you, shared locker with multiple people or sometimes they even ask you to leave the stuff in the lobby after tying the luggage to a chain. So if you come early or has a bus late at night you can ask the hostel to keep your luggage. You don't have to carry the luggage while visiting the city. **But I would not leave important stuff in lockers before checking in or after checking out**. **Leave only the stuff you are fine loosing.** Most hostels also allow you to use the washroom before checking in. That said if the hostel is cheap I would recommend you to book a hostel the night you have the bus as well since its so much more convenient. You don't have to check out early and leave the baggage at the hostel. Also, you can, for example, freshen up before getting into the next bus.
+
+**Travel on a bus to save money**
+
+- Europe is well connected by roads. And buses are often cheaper than all other transportation.
+- Flixbus is popular among backpackers. The tickets are pretty cheap and they have very good connectivity between many countries. They are based in Germany. Every bus has a toilet, Free Wifi, and Power ports. The seats are not that great though. I had to use my Neck Pillows for sleeping.
+- There is another bus service called Regiojet based in the Chech republic. They seem to have much better facilities at an almost similar or cheaper price. The connectivity is lesser than Flixbus but if you are traveling to a city that is connected by Regiojet I would try recommending them over Flixbus.
+
+**Take a night bus to save money and time**
+
+- I used to travel from one city to another only at night. So I would be sleeping on the bus and be saving some significant amount of time has I choose to travel in the day instead. 
+
+**How many days to stay in a city**
+
+- This varies from person to person and there is no right answer. The number of days depends upon how many days you have in total and how many cities you want to cover. In my case, I decided to Stay in Berlin for 7 days (2 - 3 days for the hackathon and remaining for sightseeing). But I stayed only 2 days in Copenhagen, Prague, and Budapest. 2 days is good enough to cover each city quickly if you are on a tight schedule. But it can be exhausting. I got a bit sick in Prague and I got only 1 day to explore the city. If you have enough time I would recommend at least 4 or 5 days in each city.
+
+**Booking flight**
+
+- Since Schengen Visa has a limit on the number of days you can stay in the country, make sure that you book flight arrival and departure correctly. For example, I was allowed only 14 days so I had to make sure that every day is utilized properly. So I booked a flight that arrived on the morning of the first day and on return booked one that departed at night on the 14th day.
+****
+
+****After thinking a lot for multiple days I came up with this plan.
+
+- 22/9/2019 - Flight to Berlin from Bangalore 🇮🇳 
+- 22 to 23 - Stay at the hostel 🇩🇪 
+- 23 to 25 - ETHBerlin 🇩🇪 
+- 25 to 28 - Berlin 🇩🇪 
+- 29 to 30 - Copenhagen 🇩🇰 
+- 31/9/2019 to 1/9/2019 - Prague 🇨🇿
+- 2 to 3 - Budapest 🇭🇺 
+- 4th night - Flight back to India from Berlin 🇩🇪 
+
+
+## Booking and Logistics 
+
+I booked flight tickets from Bangalore to Berlin and vice versa from Yatra.com the day I got the visa. I booked all the hostels from booking.com. Some of them were prepaid and some I had to pay at the hostel. HostelWorld is another great site for booking hostels.
+
+Other things that I bought or took to the Trip include
+
+- A 60 Litre Quechua backpack from Decathlon which was more than enough for keeping clothes for 2 weeks. 
+- 20,000 mih power bank. 20,000 was not required for the trip though. The buses and hostels all had some facilities for charging so 10,000 mih would have been good enough.
+- Around 8 snickers. This was super helpful. If you are going on a trip for 2 weeks there are always some times when you feel hungry but is there no option for eating nearby. That said you can get Snickers from a Supermarket in Europe as well for almost the same price.
+-  Umbrella
+- Neck Pillow - Super useful if you are traveling in Flixbus. It's very hard to sleep on them without a Nick Pillow.
+- Forex card with around 300 Euros in it. It was good enough for 2 weeks.
+- Padlock - I didn't buy them from India but bought them in a hostel in Prague. Make sure that you get a really good Padlock if you are going to stay in a hostel since most of the hostels expect you to bring a padlock.
+- Sunglass - I didn’t buy them but it could have been super useful for me.
+- Sim card - I borrowed a German SIM card from a friend of mine. It had 3 GB of data and around 200 minutes of talk time for a month. It was more than enough. You can get a SIM before boarding the flight from India or get one from Germany. Your Indian Sim Card may or may not work in Europe without any special recharge. This depends upon which country you are in and which cellphone provider you have. For example, I didn't do any special recharge for my Jio sim so it didn't work in Germany. I had to use my Indian sim card for getting some OTPs. I checked the Jio website and found that the SIM card would work only in selected countries without a special recharge. Luckily Denmark was one of the countries on the list and I got the SIM working there. You can do a special recharge so that the SIM works everywhere and you can make calls and use data etc. But it's costly and you have to do that recharge when you are connected to the provider (ie in India or selected countries where your cell service works without recharge)
+
+
+## Trip
+
+**Ernakulam, Wednesday**
+The trip started at my home in Ernakulam. I got into an Uber and went to the Airport. The airport is hardly 25 minutes from the house. I arrived pretty early. Later I got into a flight to Bangalore.
+
+![Cochin Domestic Airport](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1570564272152_20190821_185752.jpg)
+
+
+
+**Bangalore, Wednesday - Thursday**
+My flight arrived on time at around 10.00 PM. I still had a couple of hours left before getting on to the flight to Doha which was scheduled at 3.30 AM. They allowed me to check-in only after 12. I was expecting to eat something at the Airport. But unfortunately most of the restaurants were closed and the open ones were expensive. Snickers come to the rescue and I had one of them. I got into Qatar airways flight at around 3.30. Food was served. Qatar Airways is pretty good. The seat was comfortable and they provided pillows, blankets, etc. But the seat I got was in the frontmost row and I didn't have much space to keep legs. I arrived in Doha at around 6 AM local time.
+
+**Doha, Thursday**
+Immigration was really fast. Doha airport is really big. It has a train that connects different terminals. And the airport is filled with international passengers.  My Indian sim was working on Doha. The layover was small and soon I was in a flight to Berlin.
+
+**Berlin, Thursday**
+I arrived in Berlin at around 1 PM. From Sky, berlin looked like it was surrounded by Forest and Lakes. Berlin Tegel airport is kind of small and outdated. Immigration was also pretty fast. I was asked why I came to Berlin as well as asked for a return ticket. I got out of the airport soon and started figuring out how to reach the hostel. My cached version of Google map didn't have info on public transport so I started looking for an open Wifi. Luckily was still able to connect to Airport Wifi. Google Maps told me that I have to get on a bus nearby and change to another bus after some time. I got a 2.5-hour pass from the Ticketing machine using my credit card for around 2.80 Euros. The bus came soon and I hopped on to the bus. The bus was super full and I didn't get a place to sit. After 10 to 20 minutes I arrived at Berlin Central Station where I have to change. It took me some time to figure out that my next connection S9 is a train and not a bus. You can use any public transport with the ticket. It took me another 30 minutes to figure out where the train platform was. I wasted a lot of time by not asking for help.
+
+
+![Berlin Central Station](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1570564050352_20190904_173828.jpg)
+
+
+I got on a train to Friedrichshain and arrived after 10 or so minutes. Friedrichshain is a pretty beautiful place and has remains of the Berlin wall. My hostel was pretty nearby the station.  
+
+
+![Friedrichshain](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1570564078623_20190822_194151.jpg)
+
+
+The hostel was pretty nice. I spend some time keeping my stuff in the room and then went outside. I roamed around a bit and hard a burger for around 7.5 Euros from Bro Burger. It was pretty good and cheap. I went back to the hostel after some time. There were a lot of tables in the lobby so I brought my laptop down and got some work done. I slept at around 2 and had a peaceful sleep.  
+
+**Berlin, Friday - Sunday**
+I woke up at around 9 AM. I had breakfast at the hostel for 5 euros. Breakfast was a buffet with items like Sandwiches, Orange juice, Milk, Nutella, etc. All the hostels I visited after this one also had a similar breakfast. Hackathon opening ceremony was supposed to be at 6 so I decided to get some work done till then. I left the hostel at around 6 PM. The hostel was kind enough to use the lounge even after the checkout. The hackathon was happening in Factory Berlin which was around 2 KM from my hostel. I decided to walk to the venue. It took me around 30 mins to reach the venue. 
+
+
+![Factory Berlin](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572688570528_IMG_20190825_180044.jpg)
+
+
+The venue was pretty good. But I was not feeling that great since I didn't have a good idea for the hackathon and I was not prepared. I planned to make something alone and try to win a prize but that seemed unlikely at that time. While having dinner before the hackathon started I met another participant called Alexandro. We started talking and discussing various projects we did in the past. Alexandro had attended various hackathons in the past and even won a prize in ETHWaterloo, the first-ever ETHhackathon. I had also won an API prize in ETHIndia. After some time it became obvious to us to form a team with each other. We went to hacking space and started brainstorming ideas.  
+
+
+![Brain Storming](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572779446188_20190824_122422.jpg)
+
+
+After brainstorming multiple ideas we decided to make an Oracle for The Graph Protocol. For folks who are not familiar, Oracle in Ethreum community refers to a mechanism through which smart contracts can access data from the outside world. By Outside world, it means outside Ethereum Blockchain. The Graph protocol, on the other hand, is GraphQL on top of Ethereum. So you can make queries like Crytokitties born in the last 30 days to Graph Protocol and it would return the result. There was no way to query the Graph from Ethereum so we decided to make an Oracle for The Graph. Building the Oracle was pretty fun. We ended up winning 2 API prizes in ETHBerlin, one from The Graph and one from The Skale.
+
+
+![Photo of a Hacker giving presentation in ETHBerlin Closing Ceremony](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572689408862_20190825_162851.jpg)
+
+
+The hackathon closing ceremony got over by 5 on Sunday and I decided to go to my hostel. The hostel was located in Johannisstraße and was around 30 mins from my Hackathon location via Train. But it took me like 2 hours to reach Johannisstraße as I spend more than an hour trying to figure out the station from which my connecting train left. The station was located Underground and I had no idea about that. So I spend a lot of time searching for a station near the road and even questioned whether Google maps was incorrect 😭 It was not at all obvious that a station was there Underground and the entrance to the station was not visible at all. After the struggle finding the station, I got into the connecting train finally. I met 2 folks from Kerala on the train and talked a bit.
+They came to Germany in Job Seekers Visa and were able to get a job in less than 1 month. They left after a few stations. After some stations, I realized that I missed the station I was supposed to exit and had to take back another train. Finally, I arrived at the hostel.
+
+The hostel was amazing. The rooms were very spacious and had amazing views. The hostel even had free food ingredients for us to cook and eat. It was indeed the best hostel I stayed so far.
+
+![Exclusive Kitchen only for our room](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572690349642_20190826_122522.jpg)
+![View from room balcony](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572690350163_20190826_202744.jpg)
+
+
+I decided to go outside and have something to eat. I used Google maps and located in a cheap place with very good reviews. After eating I started exploring the area. The highlight of the night was my going to Monbijou Park and arriving in time for the performance of a musician. It was amazing!
+
+![View from Monbijou Park](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572779076760_IMG_20190825_222158.jpg)
+
+
+After some time I went back to the hostel and slept after a very long day.
+
+**Berlin, Monday**
+I started the day by going out to eat. I went to Dada Falafel which was a few minutes away from my hostel and had a Falafel. I came back to the hostel pretty quickly and had a falafel.
+
+ I decided to spend most of the day catching up on work. I also met some folks in the hostel. One of the people I met was from the United States and was backpacking in Germany. The other person I met was from South Africa who is here in Germany for work. We went out to an Irish Pub later at night where there was an amazing performance by a musician. I left the Pub after some time and went to grab dinner. I had a Burger from Shishi burger.
+I spend most of the remaining night roaming around. It was pretty fun roaming around at night. I also tried one of the Lime Scooters. It was also a good time to try them since there was hardly anyone in Streets. It costs 1 Euro for unlocking the Scooter and then it's 10 cents per minute. I roamed in the scooter for some time and then came back to the Hostel.
+
+**Berlin, Tuesday**
+I woke up and had breakfast from the Hostel. Then I got some work done and left to explore places that I have not visited nearby. I visited Brandenburg Gate, Brandenburger tor and various memorials. I liked these monuments very much that I decided to come back at night.
+
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572779582582_20190827_184745.jpg)
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572779582051_20190827_185753.jpg)
+
+
+Later I went to Potsdamer Platz and visited the Sony Center. I also had an Ice Cream there. I hung out in nearby areas for some more time. It was really beautiful.
+
+![Sony Center](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572779764770_20190827_193527.jpg)
+![Place near Postdamer Platz](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572779764534_20190827_202508.jpg)
+
+
+After some time I went to the Mall of Berlin and had an Impossible burger from there. It tasted fine but I was not super impressed. The mall was almost closing by that time so I decided to head back to the area near Brandenburg gate. Brandenburg gate was spectacular at night. Musicians and artists were performing. I spend some time there.
+
+![Brandenburg Gate at Night](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572779930042_20190827_214622.jpg)
+
+
+I decided to go back to the hostel for some time for refreshing up. I took a lime scooter halfway instead of walking and reached the hostel pretty quickly. After some spending some time in the hostel I headed back to Brandenburger tor. This time I got the Scotter from Hostel and took around 15 minutes.
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572780748724_IMG_20190827_221339.jpg)
+
+
+  When I came back there was hardly anyone so I decided to roam somewhere else. I started walking back and ended up in the Museum Islands. 
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572781248280_20190828_005734.jpg)
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572781248006_20190828_003355.jpg)
+
+
+I spend some time roaming around Museum islands and later went back to bed.
+
+ **Berlin, Wednesday**
+This was my last day in Berlin. I started the day by having Breakfast from the hostel. After having breakfast I spend the next few hours catching up on work. I left the hostel at around 4. Instead of going to a restaurant I decided to go and get something from the supermarket. I visited nearby Rewe supermarket and bought a frozen pizza and a big bottle of coke. It cost me less than 3 euros. I headed back to the hostel and used the Hostel oven to bake the Pizza. I was not super sure how to Operate the Owen so I got the help of an Australian backpacker whom I met earlier and was staying in my room. The Pizza was not super tasty but it had a lot of quantity and was worth the money. I decided to roam around for some more time and headed outside. This time I took a Lime Scooter to Großer Stern. I spend a few minutes looking at the Victory Column and then started heading back to the Hostel.
+
+ 
+
+![Victory Column](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572782483889_20190828_225111.jpg)
+
+
+On the way back I kind of messed up my directions so it took me more than 20 minutes to get back to the hostel. But it was pretty fun. I took a shower quickly and started to pack my stuff. I finished my packing and went to the hostel for checkout. The bus stop was in Alexndraplatz which was around 2 Km from my hostel. The bus was supposed to come only at 11.30 so I still had around 1.5 hours left. So I decided to walk to the bus stop. I was not super sure where the bus will stop in AlexndraPlatz so I opened the Flixbus app and decided to stand in the location marked in the app. There was a bus stand only for Flixbus in the marked location and a couple of folks were waiting for the bus. After some time the bus came and I boarded the bus. My seat was on the top floor of the bus and it was a window seat. The seat cushion was not super comfortable so I decided to not check in the neck pillow next time. 
+
+**Rostock, Wednesday**
+The bus reached Rostock in the early morning. From here the bus would get on a Ferry and cross the baltic sea. All passengers were soon asked to get out of the bus and go inside the ferry. The ferry was more like a mini ship. It had restaurants and even a small shopping mall. I decided to go to the deck of the ferry.
+
+
+![Deck of the ferry](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572784652080_20190829_055313.jpg)
+
+
+The view from the deck was amazing. Soon the Ferry started moving and started heading towards Denmark.
+
+![View from the deck of the ferry](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572784702639_20190829_062004.jpg)
+
+
+It was really cold on the deck so I decided to go inside the ferry after some time. Then I found a place to lie down and tried to get some sleep. After 2 hours the ferry finally reached Denmark. We were asked to go back to our bus. Pretty soon the bus got out of the ferry. There was an immigration check at this time. Everything went fine and the bus soon started heading towards Copenhagen.
+
+**Copenhagen**
+The bus finally reached Copenhagen at around 10. I got out of the bus and started going through Google maps to find a place to exchange Euros to Danish Kronos. I finally found a place called Merex International which had excellent Google reviews. It was not far away from my bus stop and was also on the way to the hostel. I went to Merex and exchanged the money. They had very good rates. Then I started walking towards the hostel.
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572785125847_20190829_105232.jpg)
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572785125157_20190829_103021.jpg)
+
+
+Initially, Copenhagen resembled a bit like Berlin to me. But as I started walking I soon realized that Copenhagen is no Berlin. It had its unique Architecture and style of things. People were not as strict as following the rules like in Berlin. The people also appeared to be more cheerful as compared to Berlin. After walking for around 20 minutes I finally arrived at my hostel.
+
+![Hostel](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572785342008_20190829_111055.jpg)
+
+
+The hostel allowed check-in only at 2 PM so I was not able to go to my room. But they did had a washroom in the lounge so I used that for freshening up. I left the bag in the locker and decided to go out for roaming. After walking for almost half an hour I finally reached the City Hall Square.
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572785691957_20190829_122453.jpg)
+
+
+I spent some time exploring the City Hall.
+
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572785804561_20190829_120954.jpg)
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572785805072_20190829_122453.jpg)
+
+
+By this time it was around 1 and I was feeling quite hungry. I started going through Google Maps to find a place to eat. I found this place called Grams Kaekkerier which had amazing reviews. Plus the place was not that cheap and not that far way away. I walked for around 1 Km and reached the burger place. I ordered the recommended Burger and started eating. It was nice and different. It cost around 8 - 10 Euros.
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572786055929_20190829_131435.jpg)
+
+
+After finishing the burger I decided to check out some nearby attractions. There was Tivoli Gardens nearby but it was not free. Tivoli Gardens is the 2nd Oldest Amusement park in the world. My friend visited this place when she was here. Then I decided to go to the National Museum. I reached there and found out that it was not free so I decided to skip the place. Then I went to Christiansborg Palace which was nearby. It was pretty amazing. A lot of people were there sketching the palace.
+
+
+![Christiansborg Palace](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572787459165_20190829_135956.jpg)
+
+
+I also found a bunch of kids skateboarding near the palace. It was amazing to see the kids trying to perfect a trick over and over again. And some kids who were standing nearby were recording the tricks using very big cameras.
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572787646132_20190829_141007.jpg)
+
+
+Then I visited The King's Garden which was established in the 17th century. I spend some time hanging out in the garden. It was very pleasant.
+
+![King's Garden](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572787804091_20190829_142132.jpg)
+
+
+After hanging out for a while I started heading towards The Royal Library. The Royal Library is the largest library among all Nordic countries. It even contains one of the first Danish books printed in the 15th century. The entrance was free so I went inside and started exploring the library a bit.
+ 
+
+![The Royal Library](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572788100645_20190829_143100.jpg)
+
+
+The royal library is located on the side of a Canal. Boats were going through the Canal all the time. Sometimes people would park the boats nearby and jump to the Canal and take a swim. Most of these boats were playing loud music. It was pretty fun to watch.
+
+
+![View from nearby Royal Librray](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572788298591_20190829_143930.jpg)
+
+
+After spending some time there I decided to go to Freetown Christiania next. Christiania is a community which quite different from the rest of Copenhagen. It's almost like a hippy community. I spend some time roaming around Christiania.
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572789298663_20190829_154925.jpg)
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572789298999_20190829_154500.jpg)
+
+
+After Christiania, I decided to go to Nyhavn which is one of the most iconic places in Copenhagen.
+It was around 10 mins from Christania. On the way, I passed through the famous Butterfly 3 - Way Bridge.
+
+![Butterfly 3 Way Bridge](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572789400602_20190829_161049.jpg)
+
+
+Nyhavn was just amazing. I heard a lot about it from my friend and I understood the appeal.
+
+![Nyhavn](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572789492902_20190829_172634.jpg)
+
+
+After roaming around Nyhavn for some time I decided to go to Storget which is one of the longest pedestrian streets in Europe. 
+
+![Storget - Walking Street](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572789680701_20190829_191524.jpg)
+
+
+After walking through the street I decided to eat something. My friend recommended an amazing Noodles place called Momo Wok Box which she tried when she was here last time. I decided to get a Wok from there. I got the Wok and walked all the way toa bench nearby National Museum and had the wok there. It was really tasty and I decided to come back again tomorrow.
+
+![](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572789885079_20190829_201232.jpg)
+
+
+After eating the Wok I spend some more time visiting Nyhaven and nearby places all over again. I almost fall to the Canal nearby Skuespilhuset at night. I thought there was land on the side but it was the canal. Luckily I didn't fall.
+
+
+![Skuespilhuset - The place where I almost fall down to water](https://paper-attachments.dropbox.com/s_BD78C225109B86FC5530C4766A8CD20CE477C03163B7FE0885329A40B02B20CD_1572790357688_Screenshot+from+2019-11-03+19-39-54.png)
+
+
+After that, I had to do something Urgent on the laptop so I decided to head back to the hostel. Also, it was pretty late and I still hadn't checked in. I walked for a bit then decided to take a lime scooter as the hostel was far away. I reached the hostel, checked in and took a bath. Then I did my work and head back to sleep.
+
+**To be continued….**
+
