@@ -1,5 +1,7 @@
 ## Hey, how are you doing today!!
 
+**I moved the blog to Ghost. It's acessible at https://blog.vishnuks.com. So this repo is less likely to receive updates in the future.**
+
 Hi, I'm Vishnu Ks and this is the source code for my blog, http://vishnuks.com/blog. Feel free to browse the source, fork at will, and ask me questions. Sharing is caring!
 
 ## How it's built
