@@ -148,6 +148,10 @@ There are some Movies and Books that would change the way you think. Here are so
 * Whiplash
 * Pursuit of Happiness 
 * The Wolf of the Wall Street
+* Forrest Gump
+* The Prestige
+* Good Will Hunting
+* The Shawshank Redemption
 
 ### Books
 
