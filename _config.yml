@@ -8,10 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Vishnu Ks
+name: Vishnu KS
 description: Story of My Life
 email: yo@vishnuks.com
-author: Vishnu Ks
+author: Vishnu KS
 lang: ''
 locale: ''
 paginate: 10
@@ -20,6 +20,7 @@ markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-feed
+plugins: [jekyll-paginate]
 paginateLabel: page
 paginate_path: page/:num
 permalink: "/:categories/:year/:month/:day/:title"

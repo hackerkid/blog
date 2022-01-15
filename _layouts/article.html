@@ -10,6 +10,15 @@ layout: default
 	</span>
 
 	<section>{{ page.content }}</section>
+	<script id="diffblog-plugin-script" async="false" src="https://diff.blog/static/js/diffblog_plugin_v1.js"></script>
+	<script>
+			document.getElementById("diffblog-plugin-script").addEventListener("load", function () {
+				DiffBlog(
+					"uy0kvxlhkzli1s0qu9gikrj2ltya5269ldds20hyhet1k1ti1m"
+				);
+			});
+	</script>
+
 </article>
 
 {% if site.disqusUsername != "" %}
